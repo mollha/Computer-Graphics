@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Molly Hayward Computer Graphics Coursework</title>
+</head>
+
+    <body onload="main()">
+
+        <canvas id="webgl" width="650" height="650" style="position:absolute; z-index: 0"></canvas>
+        <canvas id="hud" width="650" height="650" style="position:absolute; z-index: 1"></canvas>
+
+        <audio id="horn">
+            <source src="./textures/horn.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+
+        <script src="./lib/webgl-utils.js"></script>
+        <script src="./lib/webgl-debug.js"></script>
+        <script src="./lib/cuon-utils.js"></script>
+        <script src="./lib/cuon-matrix.js"></script>
+        <script crossorigin="anonymous" src="index.js"></script>
+    </body>
+
+</html>
