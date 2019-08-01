@@ -12,6 +12,9 @@ If the above steps are un-successful, run the application WITHOUT textures as fo
 
 - It is advised to run the application on Google Chrome as some features may appear different in other browsers due to variations in requestAnimationFrame()
 
+![Image of dawn](https://github.com/mollha/Computer-Graphics/blob/master/example.PNG)
+
+
 
 DESCRIPTION
 I have modeled my own house in Durham and its surroundings - the reference image is included in the main directory (reference.png). A variety of cars will pass by the house - the wheels rotate as the cars drive forward and in 3 cars will honk their horn too!
@@ -32,3 +35,5 @@ The following functionality is provided:
     D: right
     Z: up
     X: down
+    
+    
