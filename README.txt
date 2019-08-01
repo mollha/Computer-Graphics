@@ -12,7 +12,7 @@ If the above steps are un-successful, run the application WITHOUT textures as fo
 
 - It is advised to run the application on Google Chrome as some features may appear different in other browsers due to variations in requestAnimationFrame()
 
-![Image of dawn](https://github.com/mollha/Computer-Graphics/blob/master/example.PNG)
+![Image of dawn](https://raw.githubusercontent.com/mollha/Computer-Graphics/master/example.PNG)
 
 
 
